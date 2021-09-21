@@ -57,7 +57,7 @@ p {
   height: 90px;
   position: absolute;
   background: url(tanah.png) bottom center no-repeat;
-  background-size: 100%;
+  background-size: 90%;
   top: 20px;
 }
 
@@ -66,7 +66,7 @@ p {
   height: 100px;
   background: url(andy.png) bottom center no-repeat;
   position: absolute;
-  background-size: 90%;
+  background-size: 100%;
   top: 40px;
   transition: top 0.3s;
 }
