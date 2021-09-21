@@ -57,7 +57,7 @@ p {
   height: 90px;
   position: absolute;
   background: url(tanah.png) bottom center no-repeat;
-  background-size: 90%;
+  background-size: 100%;
   top: 20px;
 }
 
